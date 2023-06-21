@@ -13,9 +13,9 @@
 
     <properties>
         <java.version>11</java.version>
-        <sonar.projectKey>piomin_sample-java-sonar</sonar.projectKey>
-        <sonar.organization>piomin</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>sqp_60f81f7fd67a83cd5a3e7f241658dd5f0ebfd9a1</sonar.projectKey>
+        <sonar.organization>saikumarram123</sonar.organization>
+        <sonar.host.url>http://13.234.19.172:9000</sonar.host.url>
     </properties>
 
 </project>
