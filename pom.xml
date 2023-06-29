@@ -13,9 +13,8 @@
 
     <properties>
         <java.version>11</java.version>
-        <sonar.projectKey>sqp_60f81f7fd67a83cd5a3e7f241658dd5f0ebfd9a1</sonar.projectKey>
-        <sonar.organization>saikumarram123</sonar.organization>
-        <sonar.host.url>http://13.234.19.172:9000</sonar.host.url>
+        <sonar.projectKey>Sonar</sonar.projectKey>
+        <sonar.host.url>http://127.0.0.1:9001</sonar.host.url>
     </properties>
 
 </project>
